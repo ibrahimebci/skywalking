@@ -1,6 +1,5 @@
 Apache SkyWalking
 ==========
-
 <img src="http://skywalking.apache.org/assets/logo.svg" alt="Sky Walking logo" height="90px" align="right" />
 
 **SkyWalking**: an APM (Application Performance Monitoring) system, especially designed for
